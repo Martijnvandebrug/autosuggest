@@ -13,7 +13,7 @@ suggestlist.addWords('/home/martijn/git/_py_playground/words.xml', 'topKeyword',
 suggestlist.addWords('/home/martijn/git/_py_playground/queries.xml', 'topQuery', 'query')
 
 
-prefixes = ['pi', 'go', 'kpn', 'kla', 'opze', 'showc']
+prefixes = ['pi', 'go', 'kp', 'kla', 'opze', 'showc']
 
 # List
 for prefix in prefixes:
